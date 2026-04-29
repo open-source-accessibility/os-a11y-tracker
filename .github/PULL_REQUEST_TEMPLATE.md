@@ -3,7 +3,7 @@
 
 ## Accessibility checklist
 
-Accessibility is a priority for the Guides — please review our [Accessibility Statement](../ACCESSIBILITY.md) and confirm the items below that apply to your change. Check **N/A** for any item that doesn't apply (for example, content-only edits with no UI changes).
+Accessibility is a priority for Accessibility Toolkit — please review our [Accessibility Statement](/ACCESSIBILITY.md) and confirm the items below that apply to your change. Check **N/A** for any item that doesn't apply (for example, content-only edits with no UI changes).
 
 ### Content changes (any change to articles, README, or docs)
 - [ ] Headings follow a logical hierarchy and don't skip levels (`#`, `##`, `###`, …).

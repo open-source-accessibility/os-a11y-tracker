@@ -76,4 +76,4 @@ If you run into an accessibility barrier, please let us know — we treat access
 
 ## Feedback
 
-Accessibility is an ongoing practice, not a one-time fix. If you have suggestions for improving this statement or our practices, please open an issue or a pull request. Thank you for helping make Open Source Guides usable by everyone.
+Accessibility is an ongoing practice, not a one-time fix. If you have suggestions for improving this statement or our practices, please open an issue or a pull request. Thank you for helping make Accessibility Toolkit usable by everyone.

@@ -52,7 +52,7 @@ Partial-support notes:
 
 If you run into an accessibility barrier, please let us know — we treat accessibility reports as expertise, not complaints.
 
-1. **Open an issue** using the **accessibility issue template** (or apply the `accessibility` / `a11y` label) at: <https://github.com/github/opensource.guide/issues/new/choose>.
+1. **Open an issue** using the **accessibility issue template** (or apply the `accessibility` / `a11y` label) at: <https://github.com/github/accessibility-toolkit/issues/new/choose>.
 2. Include, when possible:
    - What you were trying to do and what went wrong.
    - The page URL.
